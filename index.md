@@ -11,3 +11,8 @@ TestID int,
 TestName varchar,
 TestStatus varchar);
 ```
+
+## shopping list
+- [x] fruit
+- [x] yogurt
+- [ ] eggs
